@@ -1,4 +1,4 @@
-## Hi, I'm ![Milan](#c5f015) ![wavingHand](https://user-images.githubusercontent.com/35643276/102718900-0dba6800-42eb-11eb-8885-e81bc2e3c37c.gif)
+## Hi, I'm ![Milan](https://milan.in.rs) ![wavingHand](https://user-images.githubusercontent.com/35643276/102718900-0dba6800-42eb-11eb-8885-e81bc2e3c37c.gif)
 ### Full Stack Developer specializing in C#/.NET development platform, MS SQL Server, and JavaScript frameworks (Angular, React)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/milancuckovic)
 
