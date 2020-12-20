@@ -4,7 +4,7 @@
 
 ##
 ## Technologies
-![CSharp](https://img.shields.io/static/v1?message=CSharp&logo=c-sharp&labelColor=purple&color=green&logoColor=white&label=%20)
+![CSharp](https://img.shields.io/static/v1?message=CSharp&logo=c-sharp&labelColor=purple&color=32a852&logoColor=white&label=%20)
 ![Angular](https://img.shields.io/static/v1?message=Angular&logo=angular&labelColor=red&color=1182c3&logoColor=white&label=%20)
 ![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![MSSQLServer](https://img.shields.io/static/v1?message=Microsoft%20SQL%20Server&logo=microsoft-sql-server&labelColor=f5f7f7&color=18abf0&logoColor=black&label=%20)
