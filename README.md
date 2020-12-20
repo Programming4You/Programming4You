@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=LinkedIn&labelColor=blue)](https://www.linkedin.com/in/milancuckovic)
 
 ##
-## Technologies
+## ⚡ Technologies
 ![CSharp](https://img.shields.io/static/v1?message=CSharp&logo=c-sharp&labelColor=purple&color=32a852&logoColor=white&label=%20)
 ![Angular](https://img.shields.io/static/v1?message=Angular&logo=angular&labelColor=red&color=1182c3&logoColor=white&label=%20)
 ![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
