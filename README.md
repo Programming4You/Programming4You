@@ -10,7 +10,7 @@
 ![Angular](https://img.shields.io/static/v1?message=Angular&logo=angular&labelColor=red&color=1182c3&logoColor=white&label=%20)
 ![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
 ![MSSQLServer](https://img.shields.io/static/v1?message=Microsoft%20SQL%20Server&logo=microsoft-sql-server&labelColor=f5f7f7&color=18abf0&logoColor=black&label=%20)
-![Typescript](https://img.shields.io/static/v1?message=Typescript&logo=typescript&labelColor=blue&color=blue&logoColor=white&label=%20)
+![Typescript](https://img.shields.io/static/v1?message=TypeScript&logo=typescript&labelColor=blue&color=blue&logoColor=white&label=%20)
 ![Electron](https://img.shields.io/static/v1?message=Electron&logo=electron&labelColor=59917e&color=59917e&logoColor=black&label=%20)
 ![Git](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=red&color=red&logoColor=white&label=%20)
 ![Jira](https://img.shields.io/static/v1?message=Jira&logo=Jira&labelColor=0052cc&color=white&logoColor=white&label=%20)
