@@ -5,7 +5,7 @@
 ##
 ## ⚡ Technologies
 ![CSharp](https://img.shields.io/static/v1?message=CSharp&logo=CSharp&labelColor=black&color=239128&logoColor=white&label=%20)
-![ASP.NET](https://img.shields.io/static/v1?message=asp.net&logo=dotnet&labelColor=512bd4&color=00ace6&logoColor=white&label=%20)
+![ASP.NET](https://img.shields.io/static/v1?message=ASP.NET&logo=dotnet&labelColor=512bd4&color=00ace6&logoColor=white&label=%20)
 ![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=black&color=f7df1e&logoColor=white&label=%20)
 ![Angular](https://img.shields.io/static/v1?message=Angular&logo=angular&labelColor=red&color=1182c3&logoColor=white&label=%20)
 ![React](https://img.shields.io/static/v1?message=React&logo=react&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20)
