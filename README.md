@@ -14,6 +14,8 @@
 ![Electron](https://img.shields.io/static/v1?message=Electron&logo=electron&labelColor=59917e&color=59917e&logoColor=black&label=%20)
 ![Git](https://img.shields.io/static/v1?message=Git&logo=git&labelColor=red&color=red&logoColor=white&label=%20)
 ![Jira](https://img.shields.io/static/v1?message=Jira&logo=Jira&labelColor=0052cc&color=white&logoColor=white&label=%20)
+![AWS](https://img.shields.io/static/v1?message=AWS&logo=amazonaws&labelColor=232F3E&color=FF9900&logoColor=white&label=%20)
+![xUnit](https://img.shields.io/static/v1?message=xUnit&logo=iFixit&labelColor=5c5c5c&color=E8E8E8&logoColor=white&label=%20)
 
 
 <!--
